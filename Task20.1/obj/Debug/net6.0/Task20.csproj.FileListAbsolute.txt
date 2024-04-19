@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Masaüstü\Task20\bin\Debug\net6.0\Task20.exe
+C:\Users\Asus\OneDrive\Masaüstü\Task20\bin\Debug\net6.0\Task20.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\Task20\bin\Debug\net6.0\Task20.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\Task20\bin\Debug\net6.0\Task20.dll
+C:\Users\Asus\OneDrive\Masaüstü\Task20\bin\Debug\net6.0\Task20.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Task20\obj\Debug\net6.0\Task20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\Task20\obj\Debug\net6.0\Task20.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Task20\obj\Debug\net6.0\Task20.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\Task20\obj\Debug\net6.0\Task20.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Task20\obj\Debug\net6.0\Task20.dll
+C:\Users\Asus\OneDrive\Masaüstü\Task20\obj\Debug\net6.0\refint\Task20.dll
+C:\Users\Asus\OneDrive\Masaüstü\Task20\obj\Debug\net6.0\Task20.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Task20\obj\Debug\net6.0\Task20.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Masaüstü\Task20\obj\Debug\net6.0\ref\Task20.dll
